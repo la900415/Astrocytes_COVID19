@@ -5,4 +5,4 @@ This repository contains most of the proteomic input files and scripts associate
 Scripts are located in the bin folder. Several packages are required before runnig the scripts.
 
 # Files
-Input file
+Input files are located in the xlsx folder and corresponds to RData file from MS-DAP output results and other specific tables used for analysis.
