@@ -5,7 +5,7 @@ This repository contains most of the proteomic input files and scripts associate
 Scripts are located in the bin folder. Several packages are required before runnig the scripts. 
 
 # Figures
-Figures are located in the figs folder. Before running the scripts to generate the figures remember to install the R packages or check using library().
+Figures are located in the figs folder and were zip compressed. Before running the scripts to generate the figures remember to install the R packages or check using library().
 
 # Files
 Input files are located in the xlsx folder and corresponds to tables for specific analysis. The quantitative tables (tsv) and dataset.RData file from MS-DAP output have been deposited into the PRIDE repository with the dataset identifier PXD075605.
