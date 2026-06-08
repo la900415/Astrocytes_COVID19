@@ -5,4 +5,4 @@ This repository contains most of the proteomic input files and scripts associate
 Scripts are located in the bin folder. Several packages are required before runnig the scripts. 
 
 # Files
-Input files are located in the xlsx folder and corresponds to tables for specific analysis. The quantitative tables (tsv) and dataset.RData file from MS-DAP output have been deposited into the PRIDE repository with the dataset identifier PXD075605 (Token: TMMcJba51150).
+Input files are located in the xlsx folder and corresponds to tables for specific analysis. The quantitative tables (tsv) and dataset.RData file from MS-DAP output have been deposited into the PRIDE repository with the dataset identifier PXD075605.
