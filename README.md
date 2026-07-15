@@ -1,5 +1,5 @@
 # Astrocytes_COVID19
-This repository contains most of the proteomic input files and scripts associated to manuscript "Viral infection differentially modulate inflammatory responses in astrocytes of infection-resilient centenarians compared to adults". MS data files can be found in PRIDE repository under the unique identifier PXD075605. 
+This repository contains most of the proteomic input files and scripts associated to manuscript "Divergent responses to SARS-CoV-2 infection reveal brain resilience-associated astrocyte programs in centenarians". MS data files can be found in PRIDE repository under the unique identifier PXD075605. 
 
 # Scripts
 Scripts are located in the bin folder. Several packages are required before runnig the scripts. 
